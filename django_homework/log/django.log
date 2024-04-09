@@ -1,0 +1,21 @@
+INFO 2024-04-09 22:30:15,500 views  Main page accessed
+INFO 2024-04-09 22:30:15,500 basehttp  "GET / HTTP/1.1" 200 15
+INFO 2024-04-09 22:30:23,776 views  Главная страница загружена
+INFO 2024-04-09 22:30:23,777 basehttp  "GET / HTTP/1.1" 200 15
+INFO 2024-04-09 22:30:25,812 views  Главная страница загружена
+INFO 2024-04-09 22:30:25,813 basehttp  "GET / HTTP/1.1" 200 15
+INFO 2024-04-09 22:30:26,748 views  Страница "о нас" загружена
+INFO 2024-04-09 22:30:26,748 basehttp  "GET /about/ HTTP/1.1" 200 16
+INFO 2024-04-09 22:39:21,279 autoreload  Watching for file changes with StatReloader
+INFO 2024-04-09 22:39:29,261 views  Главная страница загружена
+INFO 2024-04-09 22:39:29,262 basehttp  "GET / HTTP/1.1" 200 411
+INFO 2024-04-09 22:39:45,462 views  Главная страница загружена
+INFO 2024-04-09 22:39:45,462 basehttp  "GET / HTTP/1.1" 200 411
+INFO 2024-04-09 22:39:47,971 views  Главная страница загружена
+INFO 2024-04-09 22:39:47,972 basehttp  "GET / HTTP/1.1" 200 411
+INFO 2024-04-09 22:39:49,101 views  Страница "о нас" загружена
+INFO 2024-04-09 22:39:49,102 basehttp  "GET /about/ HTTP/1.1" 200 412
+INFO 2024-04-09 22:47:13,568 autoreload  /Users/Asus/FrameworkDjango/Django_HW/django_homework/views.py changed, reloading.
+INFO 2024-04-09 22:47:13,882 autoreload  Watching for file changes with StatReloader
+INFO 2024-04-09 22:47:57,814 views  Main page accessed
+INFO 2024-04-09 22:47:57,815 basehttp  "GET / HTTP/1.1" 200 707
