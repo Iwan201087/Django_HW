@@ -6,8 +6,8 @@ class Command(BaseCommand):
     help = "Обновить стоимость продукта по id."
 
     def add_arguments(self, parser):
-        parser.add_argument('pk', type=int, help='Product ID')
-        parser.add_argument('price', type=float, help='new  price')
+        parser.add_argument('pk', type=int, help=' ID продукта')
+        parser.add_argument('price', type=float, help='новая цена')
 
     def handle(self, *args, **kwargs):
         pk = kwargs.get('pk')
