@@ -3,7 +3,7 @@ from decimal import Decimal
 from django.contrib import admin
 from .models import Client, Product, Order
 
-DISCOUNT = 13
+DISCOUNT = 20
 
 
 @admin.action(description="apply  discount")
