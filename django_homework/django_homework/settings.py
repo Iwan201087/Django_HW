@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'hw1_app',
     'hw2_app',
     'hw3_app',
+    'hw4_app',
 
     
 ]
@@ -59,7 +60,10 @@ ROOT_URLCONF = 'django_homework.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [
+            BASE_DIR / "templates",
+            BASE_DIR / "hw3_apptemp/lates",
+        ],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -71,7 +75,6 @@ TEMPLATES = [
         },
     },
 ]
-
 WSGI_APPLICATION = 'django_homework.wsgi.application'
 
 

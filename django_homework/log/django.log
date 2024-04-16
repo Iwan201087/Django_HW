@@ -373,3 +373,73 @@ Traceback (most recent call last):
     raise new from exc
 django.template.exceptions.TemplateDoesNotExist: base.html
 ERROR 2024-04-16 02:15:33,747 basehttp  "GET /get-orders-by-client/ HTTP/1.1" 500 134378
+INFO 2024-04-16 23:19:07,436 autoreload  Watching for file changes with StatReloader
+INFO 2024-04-16 23:19:10,622 basehttp  "GET / HTTP/1.1" 200 1080
+WARNING 2024-04-16 23:19:10,749 log  Not Found: /favicon.ico
+WARNING 2024-04-16 23:19:10,749 basehttp  "GET /favicon.ico HTTP/1.1" 404 4893
+WARNING 2024-04-16 23:20:05,360 log  Not Found: /app3/about
+WARNING 2024-04-16 23:20:05,361 basehttp  "GET /app3/about HTTP/1.1" 404 4890
+WARNING 2024-04-16 23:21:06,133 log  Not Found: /hw3_app/about
+WARNING 2024-04-16 23:21:06,134 basehttp  "GET /hw3_app/about HTTP/1.1" 404 4899
+WARNING 2024-04-16 23:21:09,252 log  Not Found: /hw3_app/about
+WARNING 2024-04-16 23:21:09,253 basehttp  "GET /hw3_app/about HTTP/1.1" 404 4899
+WARNING 2024-04-16 23:21:10,635 log  Not Found: /hw3_app/about
+WARNING 2024-04-16 23:21:10,635 basehttp  "GET /hw3_app/about HTTP/1.1" 404 4899
+WARNING 2024-04-16 23:21:11,588 log  Not Found: /hw3_app/about
+WARNING 2024-04-16 23:21:11,588 basehttp  "GET /hw3_app/about HTTP/1.1" 404 4899
+WARNING 2024-04-16 23:21:11,962 log  Not Found: /hw3_app/about
+WARNING 2024-04-16 23:21:11,963 basehttp  "GET /hw3_app/about HTTP/1.1" 404 4899
+WARNING 2024-04-16 23:21:12,171 log  Not Found: /hw3_app/about
+WARNING 2024-04-16 23:21:12,172 basehttp  "GET /hw3_app/about HTTP/1.1" 404 4899
+WARNING 2024-04-16 23:21:12,366 log  Not Found: /hw3_app/about
+WARNING 2024-04-16 23:21:12,367 basehttp  "GET /hw3_app/about HTTP/1.1" 404 4899
+WARNING 2024-04-16 23:21:13,958 log  Not Found: /hw3_app/about
+WARNING 2024-04-16 23:21:13,958 basehttp  "GET /hw3_app/about HTTP/1.1" 404 4899
+INFO 2024-04-16 23:21:21,087 basehttp  "GET /about/ HTTP/1.1" 200 848
+WARNING 2024-04-16 23:23:48,159 log  Not Found: /hw3_app/all-client-orders
+WARNING 2024-04-16 23:23:48,160 basehttp  "GET /hw3_app/all-client-orders HTTP/1.1" 404 4935
+WARNING 2024-04-16 23:24:07,055 log  Not Found: /all-client-orders
+WARNING 2024-04-16 23:24:07,055 basehttp  "GET /all-client-orders HTTP/1.1" 404 4911
+WARNING 2024-04-16 23:24:09,664 log  Not Found: /all-client-orders
+WARNING 2024-04-16 23:24:09,664 basehttp  "GET /all-client-orders HTTP/1.1" 404 4911
+INFO 2024-04-16 23:25:46,823 autoreload  Watching for file changes with StatReloader
+INFO 2024-04-16 23:25:49,457 basehttp  "GET / HTTP/1.1" 200 1080
+INFO 2024-04-16 23:25:51,354 basehttp  "GET / HTTP/1.1" 200 1080
+INFO 2024-04-16 23:25:53,017 basehttp  "GET / HTTP/1.1" 200 1080
+INFO 2024-04-16 23:25:53,522 basehttp  "GET /about/ HTTP/1.1" 200 848
+INFO 2024-04-16 23:25:54,633 basehttp  "GET / HTTP/1.1" 200 1080
+INFO 2024-04-16 23:26:02,750 basehttp  "GET /about/ HTTP/1.1" 200 848
+WARNING 2024-04-16 23:27:09,549 log  Not Found: /hw3_app/all-client-orders
+WARNING 2024-04-16 23:27:09,550 basehttp  "GET /hw3_app/all-client-orders HTTP/1.1" 404 4935
+INFO 2024-04-16 23:28:34,371 autoreload  Watching for file changes with StatReloader
+INFO 2024-04-16 23:28:37,326 basehttp  "GET / HTTP/1.1" 200 1080
+WARNING 2024-04-16 23:28:49,947 log  Not Found: /app2/
+WARNING 2024-04-16 23:28:49,948 basehttp  "GET /app2/ HTTP/1.1" 404 4875
+INFO 2024-04-16 23:32:42,920 autoreload  D:\Learning\FrameworkDjango\Django_HW\django_homework\django_homework\urls.py changed, reloading.
+INFO 2024-04-16 23:32:43,333 autoreload  Watching for file changes with StatReloader
+INFO 2024-04-16 23:32:50,250 autoreload  Watching for file changes with StatReloader
+WARNING 2024-04-16 23:32:57,194 log  Not Found: /all-client-orders
+WARNING 2024-04-16 23:32:57,194 basehttp  "GET /all-client-orders HTTP/1.1" 404 5016
+WARNING 2024-04-16 23:33:13,158 log  Not Found: /app3/all-client-orders
+WARNING 2024-04-16 23:33:13,159 basehttp  "GET /app3/all-client-orders HTTP/1.1" 404 6411
+INFO 2024-04-16 23:40:24,503 autoreload  D:\Learning\FrameworkDjango\Django_HW\django_homework\django_homework\settings.py changed, reloading.
+INFO 2024-04-16 23:40:24,922 autoreload  Watching for file changes with StatReloader
+INFO 2024-04-16 23:40:31,925 autoreload  Watching for file changes with StatReloader
+INFO 2024-04-16 23:40:34,256 basehttp  "GET / HTTP/1.1" 200 1080
+WARNING 2024-04-16 23:41:06,524 log  Not Found: /app3/get
+WARNING 2024-04-16 23:41:06,525 basehttp  "GET /app3/get HTTP/1.1" 404 6369
+WARNING 2024-04-16 23:41:21,053 log  Not Found: /app3/all-client-orders
+WARNING 2024-04-16 23:41:21,054 basehttp  "GET /app3/all-client-orders HTTP/1.1" 404 6411
+WARNING 2024-04-16 23:41:25,478 log  Not Found: /app3/all-client-orders
+WARNING 2024-04-16 23:41:25,478 basehttp  "GET /app3/all-client-orders HTTP/1.1" 404 6411
+INFO 2024-04-16 23:42:32,520 autoreload  D:\Learning\FrameworkDjango\Django_HW\django_homework\django_homework\settings.py changed, reloading.
+INFO 2024-04-16 23:42:32,941 autoreload  Watching for file changes with StatReloader
+INFO 2024-04-16 23:43:22,336 autoreload  D:\Learning\FrameworkDjango\Django_HW\django_homework\django_homework\settings.py changed, reloading.
+INFO 2024-04-16 23:43:22,730 autoreload  Watching for file changes with StatReloader
+INFO 2024-04-16 23:43:32,279 autoreload  D:\Learning\FrameworkDjango\Django_HW\django_homework\django_homework\settings.py changed, reloading.
+INFO 2024-04-16 23:43:32,705 autoreload  Watching for file changes with StatReloader
+INFO 2024-04-16 23:43:54,674 autoreload  Watching for file changes with StatReloader
+INFO 2024-04-16 23:43:57,369 basehttp  "GET / HTTP/1.1" 200 1080
+INFO 2024-04-16 23:44:00,096 basehttp  "GET / HTTP/1.1" 200 1080
+INFO 2024-04-16 23:44:30,842 basehttp  "GET /get-orders-by-client HTTP/1.1" 301 0
+INFO 2024-04-16 23:44:30,860 basehttp  "GET /get-orders-by-client/ HTTP/1.1" 200 1592
