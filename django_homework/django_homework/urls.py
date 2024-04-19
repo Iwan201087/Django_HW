@@ -27,5 +27,6 @@ urlpatterns = [
     path('app3/', include('hw3_app.urls')),
     path('app4/', include('hw3_app.urls')),
     path('', include('hw4_app.urls')),
+    # path('__debug__/', include('debug_toolbar.urls')),
     
 ]

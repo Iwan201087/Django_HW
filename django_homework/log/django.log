@@ -978,3 +978,50 @@ INFO 2024-04-17 00:51:38,724 basehttp  "GET /admin/hw2_app/order/ HTTP/1.1" 200 
 INFO 2024-04-17 00:51:38,750 basehttp  "GET /admin/jsi18n/ HTTP/1.1" 200 3342
 INFO 2024-04-17 00:52:10,764 basehttp  "GET /admin/hw2_app/product/ HTTP/1.1" 200 14334
 INFO 2024-04-17 00:52:10,788 basehttp  "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2024-04-17 23:11:45,469 autoreload  Watching for file changes with StatReloader
+INFO 2024-04-17 23:12:21,438 autoreload  Watching for file changes with StatReloader
+INFO 2024-04-17 23:15:16,753 autoreload  D:\Learning\FrameworkDjango\Django_HW\django_homework\django_homework\settings.py changed, reloading.
+INFO 2024-04-17 23:16:10,403 autoreload  Watching for file changes with StatReloader
+INFO 2024-04-17 23:25:23,547 autoreload  Watching for file changes with StatReloader
+INFO 2024-04-17 23:27:20,818 autoreload  D:\Learning\FrameworkDjango\Django_HW\django_homework\django_homework\settings.py changed, reloading.
+INFO 2024-04-17 23:27:21,290 autoreload  Watching for file changes with StatReloader
+INFO 2024-04-17 23:27:36,509 autoreload  Watching for file changes with StatReloader
+INFO 2024-04-17 23:27:39,801 basehttp  "GET / HTTP/1.1" 200 1080
+WARNING 2024-04-17 23:27:39,874 log  Not Found: /favicon.ico
+WARNING 2024-04-17 23:27:39,874 basehttp  "GET /favicon.ico HTTP/1.1" 404 5213
+INFO 2024-04-17 23:29:44,331 basehttp  "GET / HTTP/1.1" 200 1080
+INFO 2024-04-17 23:29:46,420 basehttp  "GET /about/ HTTP/1.1" 200 848
+INFO 2024-04-17 23:29:58,127 basehttp  "GET /about/ HTTP/1.1" 200 848
+INFO 2024-04-17 23:31:02,331 basehttp  "GET /app3/get-orders-by-client/ HTTP/1.1" 200 1592
+INFO 2024-04-17 23:31:12,187 basehttp  "POST /app3/get-orders-by-client/ HTTP/1.1" 302 0
+INFO 2024-04-17 23:31:12,213 basehttp  "GET /app4/all-client-orders/2/7 HTTP/1.1" 200 711
+INFO 2024-04-17 23:31:15,353 basehttp  "GET /list_all_products/ HTTP/1.1" 200 1119
+INFO 2024-04-17 23:31:29,513 basehttp  "GET /list_all_products/ HTTP/1.1" 200 1119
+INFO 2024-04-17 23:31:32,355 basehttp  "GET /product-create/ HTTP/1.1" 200 1867
+INFO 2024-04-17 23:31:34,470 basehttp  "GET /get-product-by-id/ HTTP/1.1" 200 1010
+INFO 2024-04-17 23:31:35,923 basehttp  "GET /about/ HTTP/1.1" 200 848
+INFO 2024-04-17 23:31:44,024 basehttp  "GET /app3/get-orders-by-client/ HTTP/1.1" 200 1592
+INFO 2024-04-17 23:31:51,166 basehttp  "POST /app3/get-orders-by-client/ HTTP/1.1" 302 0
+INFO 2024-04-17 23:31:51,181 basehttp  "GET /app4/all-client-orders/2/30 HTTP/1.1" 200 712
+INFO 2024-04-17 23:32:45,929 basehttp  "GET /app4/get-orders-by-client/ HTTP/1.1" 200 1592
+INFO 2024-04-17 23:32:47,352 basehttp  "GET /app4/get-orders-by-client/ HTTP/1.1" 200 1592
+INFO 2024-04-17 23:32:48,025 basehttp  "GET /app4/get-orders-by-client/ HTTP/1.1" 200 1592
+INFO 2024-04-18 00:02:39,817 autoreload  D:\Learning\FrameworkDjango\Django_HW\django_homework\django_homework\settings.py changed, reloading.
+INFO 2024-04-18 00:02:40,288 autoreload  Watching for file changes with StatReloader
+INFO 2024-04-19 04:21:55,489 autoreload  Watching for file changes with StatReloader
+INFO 2024-04-19 04:21:59,105 basehttp  "GET / HTTP/1.1" 200 1080
+WARNING 2024-04-19 04:21:59,223 log  Not Found: /favicon.ico
+WARNING 2024-04-19 04:21:59,223 basehttp  "GET /favicon.ico HTTP/1.1" 404 5213
+INFO 2024-04-19 04:22:17,535 basehttp  "GET / HTTP/1.1" 200 1080
+INFO 2024-04-19 04:22:23,009 basehttp  "GET / HTTP/1.1" 200 1080
+INFO 2024-04-19 04:22:25,281 basehttp  "GET / HTTP/1.1" 200 1080
+INFO 2024-04-19 04:24:29,783 autoreload  Watching for file changes with StatReloader
+WARNING 2024-04-19 04:24:30,097 log  Not Found: /debug
+WARNING 2024-04-19 04:24:30,097 basehttp  "GET /debug HTTP/1.1" 404 5195
+WARNING 2024-04-19 04:24:34,605 log  Not Found: /debug
+WARNING 2024-04-19 04:24:34,605 basehttp  "GET /debug HTTP/1.1" 404 5195
+WARNING 2024-04-19 04:24:53,574 log  Not Found: /__debug__/
+WARNING 2024-04-19 04:24:53,574 basehttp  "GET /__debug__/ HTTP/1.1" 404 6447
+WARNING 2024-04-19 04:25:10,200 log  Not Found: /__debug__/ render_panel/
+WARNING 2024-04-19 04:25:10,201 basehttp  "GET /__debug__/%20render_panel/ HTTP/1.1" 404 6491
+INFO 2024-04-19 04:25:32,569 basehttp  "GET / HTTP/1.1" 200 1080
