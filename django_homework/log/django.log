@@ -1025,3 +1025,5 @@ WARNING 2024-04-19 04:24:53,574 basehttp  "GET /__debug__/ HTTP/1.1" 404 6447
 WARNING 2024-04-19 04:25:10,200 log  Not Found: /__debug__/ render_panel/
 WARNING 2024-04-19 04:25:10,201 basehttp  "GET /__debug__/%20render_panel/ HTTP/1.1" 404 6491
 INFO 2024-04-19 04:25:32,569 basehttp  "GET / HTTP/1.1" 200 1080
+INFO 2024-04-20 00:50:26,327 autoreload  Watching for file changes with StatReloader
+INFO 2024-04-20 00:58:37,796 autoreload  Watching for file changes with StatReloader
